@@ -30,7 +30,6 @@ Lists of sites worth blocking or whitelisting
 - cse.google.com
 - ibm.com
 - podcasts.google.com
-- angel.co
 - howtogeek.com
 - office.live.com
 - www.chegg.com
@@ -66,7 +65,7 @@ Lists of sites worth blocking or whitelisting
 - messenger.com
 - map.google.com
 - scholar.google.com
-- https://meet.google.com/
+- meet.google.com
 - dummies.com
 - www.udemy.com
 - app.hubspot.com
@@ -154,18 +153,14 @@ Lists of sites worth blocking or whitelisting
 - docs.ray.io
 - www.canada.ca
 - abundance.video
-- https://app.slack.com/
 - app.slack.com
 - www.ouac.on.ca
 - event.on24.com
 - web.na.bambora.com
 - whereby.com
-- apply.ycombinator.com
 - vidyard.com
-- apps4.ams-sga.cra-arc.gc.ca
-- blog.pramp.com
-- deloitte.com
-- deloitte.ca
+- gc.ca
+- pramp.com
 - www.cc.gatech.edu
 - www.applyweb.com
 - www.cibconline.cibc.com
