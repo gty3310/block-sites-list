@@ -1,7 +1,7 @@
-#awesome-block-sites-list
+# awesome-block-sites-list
 Lists of sites worth blocking or whitelisting
 
-##Sites worth whitelisting
+## Sites worth whitelisting
 - Login.live.com
 - Mozilla.org
 - Notion.so
@@ -192,7 +192,7 @@ Lists of sites worth blocking or whitelisting
 - airtable.com
 - freedom.to
 
-##Sites worth blocking
+## Sites worth blocking
 - www.google.com
 - www.google.ca
 - www.google.hk
