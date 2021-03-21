@@ -1,7 +1,7 @@
 # block-sites-list
 Lists of sites worth blocking or whitelisting
 
-## Sites worth whitelisting
+## Study/coding related that sites worth whitelisting
 - colab.research.google.com
 - hangouts.google.com
 - cse.google.com
@@ -382,7 +382,7 @@ Lists of sites worth blocking or whitelisting
 - adobe.com
 - notion.app
 
-## Sites worth blocking
+## Distracting sites worth blocking
 - www.google.com
 - www.google.ca
 - www.google.hk
