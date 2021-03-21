@@ -382,7 +382,7 @@ Lists of sites worth blocking or whitelisting
 - adobe.com
 - notion.app
 
-## Distracting sites worth blocking
+## Distracting sites that worth blocking
 - www.google.com
 - www.google.ca
 - www.google.hk
@@ -391,9 +391,7 @@ Lists of sites worth blocking or whitelisting
 - www.yahoo.com
 - duckduckgo.com
 - www.facebook.com
-- yahoo.com
 - people.com
-- paper.people.com
 - legaldaily.com
 - bjnews.com
 - sina.com
