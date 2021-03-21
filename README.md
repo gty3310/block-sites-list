@@ -20,7 +20,6 @@ Lists of sites worth blocking or whitelisting
 - focusmate.com
 - shimo.im
 - github.com
-- mjburns.net
 - www.grammarly.com
 - uwflow.com
 - gmail.com
@@ -63,7 +62,6 @@ Lists of sites worth blocking or whitelisting
 - www.codecademy.com
 - hackr.io
 - doc.google.com
-- idp.uwaterloo.ca
 - leetcode.com
 - messenger.com
 - map.google.com
@@ -72,7 +70,6 @@ Lists of sites worth blocking or whitelisting
 - dummies.com
 - www.udemy.com
 - app.hubspot.com
-- learn.uwaterloo.ca
 - www.worldometers.info
 - localhost:3000
 - anchor.fm
@@ -102,11 +99,8 @@ Lists of sites worth blocking or whitelisting
 - hubspot.com
 - localhost:3000/
 - gisanddata.maps.arcgis.com
-- l.messenger.com
 - uwaterloo.ca
 - https://app.getpocket.com/
-- https://quest.pecs.uwaterloo.ca
-- learn.uwaterloo.ca/
 - www.geeksforgeeks.org
 - glassdoor.ca
 - thebalancecareers.com
@@ -129,7 +123,6 @@ Lists of sites worth blocking or whitelisting
 - localhost
 - turncameraon.com
 - glassdoor.com
-- quest.pecs.uwaterloo.ca
 - www.messenger.com
 - chrome-extension
 - office.com
@@ -166,7 +159,6 @@ Lists of sites worth blocking or whitelisting
 - www.ouac.on.ca
 - event.on24.com
 - web.na.bambora.com
-- thecentrebot.uwaterloo.ca
 - whereby.com
 - apply.ycombinator.com
 - vidyard.com
