@@ -1,4 +1,4 @@
-# awesome-block-sites-list
+# block-sites-list
 Lists of sites worth blocking or whitelisting
 
 ## Sites worth whitelisting
