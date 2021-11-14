@@ -2,6 +2,7 @@
 Lists of sites worth blocking or whitelisting
 
 ## Study/coding related that sites worth whitelisting
+- account.google.com
 - colab.research.google.com
 - hangouts.google.com
 - cse.google.com
